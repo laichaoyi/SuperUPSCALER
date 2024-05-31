@@ -44,7 +44,7 @@ torchaudio==2.1.0
 huggingface_hub
 xformers
 # Only for windows
-https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/triton-2.1.0-cp310-cp310-win_amd64.whl ; platform_system == "Windows"
+https://huggingface.co/Andyhere/MySDFork/resolve/main/triton-2.1.0-cp310-cp310-win_amd64.whl ; platform_system == "Windows"
 --extra-index-url https://download.pytorch.org/whl/cu121
 
 
